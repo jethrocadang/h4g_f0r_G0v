@@ -1,0 +1,19 @@
+
+Scalpel version 1.60 audit file
+Started at Fri Sep 15 01:05:54 2023
+Command line:
+scalpel -b 00000001.png 
+
+Output directory: /home/kali/h4g/seekDhidden/scalpel-output/png-4-0/scalpel-output/scalpel-output
+Configuration file: /etc/scalpel/scalpel.conf
+
+Opening target "/home/kali/h4g/seekDhidden/scalpel-output/png-4-0/scalpel-output/00000001.png"
+
+The following files were carved:
+File		  Start			Chop		Length		Extracted From
+Scalpel was unable to open the image file: 00000001.png
+Skipping...
+
+
+
+Completed at Fri Sep 15 01:05:54 2023

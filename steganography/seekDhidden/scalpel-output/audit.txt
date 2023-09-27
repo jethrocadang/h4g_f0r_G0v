@@ -1,0 +1,18 @@
+
+Scalpel version 1.60 audit file
+Started at Fri Sep 15 00:59:11 2023
+Command line:
+scalpel -b moms.jpg.jpg 
+
+Output directory: /home/kali/h4g/seekDhidden/scalpel-output
+Configuration file: /etc/scalpel/scalpel.conf
+
+Opening target "/home/kali/h4g/seekDhidden/moms.jpg.jpg"
+
+The following files were carved:
+File		  Start			Chop		Length		Extracted From
+00000001.png       185167		NO            59014		moms.jpg.jpg
+00000000.jpg            0		NO           244180		moms.jpg.jpg
+
+
+Completed at Fri Sep 15 00:59:11 2023

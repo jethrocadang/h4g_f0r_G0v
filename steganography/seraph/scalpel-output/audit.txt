@@ -1,0 +1,21 @@
+
+Scalpel version 1.60 audit file
+Started at Thu Sep 14 23:49:33 2023
+Command line:
+scalpel -b AllH4iLS3p4PH.jpg?token=eyJ1c2VyX2lkIjoxMDksInRlYW1faWQiOjM4LCJmaWxlX2lkIjo2fQ.ZQPQcw.3tv0JztjTsLviX0mz4uBdSIW0iE 
+
+Output directory: /home/kali/h4g/seraph/scalpel-output
+Configuration file: /etc/scalpel/scalpel.conf
+
+Opening target "/home/kali/h4g/seraph/AllH4iLS3p4PH.jpg?token=eyJ1c2VyX2lkIjoxMDksInRlYW1faWQiOjM4LCJmaWxlX2lkIjo2fQ.ZQPQcw.3tv0JztjTsLviX0mz4uBdSIW0iE"
+
+The following files were carved:
+File		  Start			Chop		Length		Extracted From
+ERROR: The configuration file didn't specify any file types to carve.
+(If you're using the default configuration file, you'll have to
+uncomment some of the file types.)
+
+See /etc/scalpel/scalpel.conf.
+
+
+Completed at Thu Sep 14 23:49:33 2023

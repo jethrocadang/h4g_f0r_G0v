@@ -1,0 +1,18 @@
+
+Scalpel version 1.60 audit file
+Started at Fri Sep 15 02:08:12 2023
+Command line:
+scalpel -b IMG_9623.jpg 
+
+Output directory: /home/kali/h4g/steganography/metadata02/scalpel-output
+Configuration file: /etc/scalpel/scalpel.conf
+
+Opening target "/home/kali/h4g/steganography/metadata02/IMG_9623.jpg"
+
+The following files were carved:
+File		  Start			Chop		Length		Extracted From
+00000001.tif           30		YES          989091		IMG_9623.jpg
+00000000.jpg            0		NO           989120		IMG_9623.jpg
+
+
+Completed at Fri Sep 15 02:08:12 2023
